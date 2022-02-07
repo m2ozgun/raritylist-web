@@ -21,6 +21,11 @@
   align-items: center;
 }
 
+.socials {
+  padding-top: 30px;
+  align-items: center;
+}
+
 .footer a {
   display: flex;
   justify-content: center;
